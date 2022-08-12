@@ -12,8 +12,8 @@
 ### Reach out to me
 
   
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />[linkedin]
-[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />[twitter]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" />][linkedin]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left" />][twitter]
   
 [linkedin]: https://www.linkedin.com/in/ismail-akdogan-662401163/
 [twitter]: https://twitter.com/akdoganni<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[ICON SLUG].svg" />
