@@ -31,6 +31,6 @@
   <br />
   <details>
   <summary> :bulb: Github Stats</summary>
-  <img src="https://raw.githubusercontent.com/akdogani/github-stats/master/generated/overview.svg#gh-dark-mode-only" >
+  <img src="https://github-readme-stats.vercel.app/api?username=akdogani" >
   </details>
 
