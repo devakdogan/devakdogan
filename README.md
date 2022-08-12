@@ -36,6 +36,6 @@
   
    <details>
   <summary> :bulb: Most Used Languages</summary>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=akdogani&theme=tokyonight" >
+  <img src="https://github-readme-stats.vercel.app/api/username=akdogani&theme=tokyonight" >
   </details>
 
