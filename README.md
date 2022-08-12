@@ -26,6 +26,6 @@
   
 <details>
   <summary> :bulb: Github Stats</summary>
-  ![](https://raw.githubusercontent.com/akdogani/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  <img src="https://raw.githubusercontent.com/akdogani/github-stats/master/generated/overview.svg#gh-dark-mode-only" >
   </details>
 
