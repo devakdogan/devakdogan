@@ -24,6 +24,8 @@
 [linkedin]: https://www.linkedin.com/in/ismail-akdogan-662401163/
 [twitter]: https://twitter.com/akdoganni
   
-![](https://raw.githubusercontent.com/akdogani/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
+<details>
+  <summary> :bulb: Github Stats</summary>
+  ![](https://raw.githubusercontent.com/akdogani/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  </details>
 
