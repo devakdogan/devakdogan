@@ -6,4 +6,4 @@
 
 ## Full Stack Java Developer 
 
-<font color="green"> Coffee coffee is how i keep up with '< code/ >' </font>
+<font color="green"> Coffee :coffee: is how i keep up with '< code/ >' </font>
