@@ -1,3 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ![snake gif](https://github.com/akdogani/akdogani/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="480" height="480">
