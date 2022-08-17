@@ -6,6 +6,14 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/ismail-akdogan-662401163" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/dev_akdogan" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/19713960/%c4%b0smail-akdo%c4%9fan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+</h5>
+<br>
+<p align="center">
 ![snake gif](https://github.com/akdogani/akdogani/blob/output/github-contribution-grid-snake.gif)
 
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" align="right" width="480" height="480">
