@@ -14,7 +14,8 @@
 </h5>
 <br>
 <p align="center">
-Hi, I'm İsmail AKDOĞAN, Full Stack Java Developer.
+<h2 align="center"> About Me </h2>
+  Hi, I'm İsmail AKDOĞAN, Full Stack Java Developer.
   <br>
   <br>
   💻 I love writing code and learn anythings about it
