@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+İsmail+AKDOĞAN...;Nice+to+meet+you!&center=true&size=29">
   </a>
 </h1>
-
+<h2 align="center"> About Me </h2>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/ismail-akdogan-662401163" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-<h2 align="center"> About Me </h2>
+
   Hi, I'm İsmail AKDOĞAN, Full Stack Java Developer.
   <br>
   <br>
