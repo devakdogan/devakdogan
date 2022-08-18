@@ -14,7 +14,7 @@
 </h5>
 <br>
 <p align="center">
-
+<h5 align="center">
   Hi, I'm İsmail AKDOĞAN, Full Stack Java Developer.
   <br>
   <br>
