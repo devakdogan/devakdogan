@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+İsmail+AKDOĞAN...;Nice+to+meet+you!&center=true&color=8fce00&size=29">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+İsmail+AKDOĞAN...;Nice+to+meet+you!&center=true&size=29">
   </a>
 </h1>
 
@@ -10,7 +10,7 @@
   <code>
     <a href="https://www.linkedin.com/in/ismail-akdogan-662401163" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/dev_akdogan" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/19713960/%c4%b0smail-akdo%c4%9fan" color=8fce00 title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://stackoverflow.com/users/19713960/%c4%b0smail-akdo%c4%9fan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
