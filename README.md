@@ -43,6 +43,7 @@
   <code><img title="MongoDB" height="25" src="images/mongodb.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Jira Software" height="25" src="images/jira.svg"></code>
 </p>
 <hr>
