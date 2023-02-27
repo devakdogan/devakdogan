@@ -8,9 +8,9 @@
 <h2 align="center"> About Me </h2>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/devakdogan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/devakdogan" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/19713960/%c4%b0smail-akdo%c4%9fan" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+    <a href="https://www.linkedin.com/in/devakdogan/" title="LinkedIn Profile" target="_blank"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/devakdogan" title="HackerRank Profile" target="_blank"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/19713960/%c4%b0smail-akdo%c4%9fan" title="Stack Overflow Profile" target="_blank"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
 </h5>
 <br>
 <p align="center">
