@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devakdogan.devakdogan">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/demo/?font=Cinzel&size=16&color=DD1E4B&center=true&vCenter=true&lines=Hello+there...+%F0%9F%91%8B%F0%9F%8F%BB;This+is+Ismail...;Nice+to+meet+you+and+welcome+to+my+profile!">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=16&pause=1000&color=DD1E4B&center=true&vCenter=true&width=435&lines=Hello+there...+%F0%9F%91%8B%F0%9F%8F%BB;This+is+Ismail...;Nice+to+meet+you+and+welcome+to+my+profile!" alt="Typing SVG" /></a>
 </h1>
 <h2 align="center"> About Me </h2>
 <h5 align="center">
